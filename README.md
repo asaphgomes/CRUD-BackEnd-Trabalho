@@ -3,5 +3,6 @@ Este é um projeto simples de uma API RESTful para gerenciamento de tarefas, des
 
 # Configuração do Banco de Dados
 * Crie um banco de dados MySQL com um nome de sua escolha.
-* Vá para o diretório **src/main/resources** e copie o arquivo application.properties.example para application.properties.
+* Vá para o diretório **src/main/resources** e copie o arquivo **application.properties.example** para **application.properties**.
 * Abra o novo arquivo application.properties e insira suas credenciais e o nome do banco de dados que você criou.
+* Inicie a aplicação Spring Boot através da sua IDE ou do terminal.
